@@ -11,5 +11,5 @@ In this talk, we will work through a jupyter notebook that covers the satellite 
 * [Requirements](https://github.com/kscottz/PyBay2017/blob/master/requirements.txt): A list of Python libraries you'll need for this project.
 * Data: links to public and commercial sources for free satellite imagery.
 * [The Basics](https://github.com/kscottz/PyBay2017/blob/master/TheBasics.ipynb): Setting up your development environment; making a slippy map and defining an area of interest on the map; searching, filtering, and downloading satellite imagery that intersects with the area of interest.
-* [Open Street Map Example](https://github.com/kscottz/PyBay2017/blob/master/OpenStreetMapExample.ipynb): Using Open Street Map and our downloaded imagery to visualize and analyze the "greenness" of parks in Portland.
+* [Open Street Map Example](https://github.com/kscottz/PyBay2017/blob/master/OpenStreetMapsExample.ipynb): Using Open Street Map and our downloaded imagery to visualize and analyze the "greenness" of parks in Portland.
 * [Making Movies](https://github.com/kscottz/PyBay2017/blob/master/MovieTime.ipynb): Wayfinding from park to park and creating a masterpiece movie of your "Great Portland Park Tour of 2017."
